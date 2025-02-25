@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @veribilimi77
+- 👋 Hi, I’m @datascience77
 - 👀 I’m interested in Data Engineering & Data Science
 - 🌱 I’m currently learning Scala / Spark 
 - 💞️ I’m looking to collaborate on  Functional programming with scala
